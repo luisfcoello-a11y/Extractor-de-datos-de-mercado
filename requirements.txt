@@ -1,0 +1,19 @@
+# Módulo de Análisis Financiero - Requirements
+# Instalación: pip install -r requirements.txt
+
+# ========== Extracción de Datos Financieros ==========
+yfinance>=0.2.18          # Yahoo Finance API para datos históricos
+alpha_vantage>=3.0.0      # Alpha Vantage API para datos financieros (opcional)
+
+# ========== Manipulación de Datos ==========
+pandas>=2.0.0             # Estructuras de datos y análisis de datos
+numpy>=1.24.0             # Operaciones numéricas y matrices
+
+# ========== Visualización ==========
+matplotlib>=3.7.0         # Visualización de gráficos
+seaborn>=0.12.0           # Visualización estadística avanzada
+
+# ========== Utilidades Adicionales ==========
+openpyxl>=3.1.0           # Lectura/escritura de archivos Excel (para yfinance)
+requests>=2.31.0          # Cliente HTTP (dependencia de yfinance y alpha_vantage)
+
