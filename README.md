@@ -1,3 +1,7 @@
+#Video de Youtube explicando la Tarea
+
+https://www.youtube.com/watch?v=WLZW9ml3kyA
+
 # 📊 Utils.py - Módulo de Análisis Financiero
 
 Un módulo completo de Python para análisis financiero que incluye extracción de datos, cálculo de métricas, gestión de carteras, simulaciones de Monte Carlo y visualización avanzada.
@@ -831,3 +835,4 @@ Para problemas o preguntas:
 1. Revisa la sección [Troubleshooting](#-troubleshooting)
 2. Verifica que todas las dependencias estén instaladas
 3. Asegúrate de tener la versión más reciente de `Utils.py`
+
