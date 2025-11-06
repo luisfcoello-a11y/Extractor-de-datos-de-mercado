@@ -1,0 +1,2 @@
+# Alpha Vantage API Key
+ALPHA_API_KEY = "2JNDD5DT2G0NNFSS"
